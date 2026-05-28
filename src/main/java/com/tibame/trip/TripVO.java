@@ -1,4 +1,4 @@
-package com.farmily.trip;
+package com.tibame.trip;
 
 public class TripVO {
 	private Integer tripId;
